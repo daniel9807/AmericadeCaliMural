@@ -1,0 +1,4 @@
+color-primario : #BC0A11;
+color-secundario: #FFFFFF
+color-tercero:#676A71
+

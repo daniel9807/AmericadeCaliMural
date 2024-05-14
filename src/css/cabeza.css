@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabeza {
+    background-color: #BC0A11;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+}
+
+.fondo {
+    margin: 0px auto;
+}
